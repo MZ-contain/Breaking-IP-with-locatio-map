@@ -25,7 +25,7 @@ def  get_infp_by_ip(ip = '127.0.0.1'):
 
 def main():
     preview_text = Figlet(font='slant')
-    print(preview_text.renderText('Im here'))
+    print(preview_text.renderText('Serkilo))
     ip = input('Вставить айди')
     get_infp_by_ip(ip=ip)
     
